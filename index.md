@@ -3,16 +3,14 @@ I hope to use this site to plan and document my journey.
 
 I hope to use and learn Git as I learn Python and JavaScript as all are essentially corequisits.
 
- ```markdown
-Syntax highlighted code block
+'''''markdown
 
  #### Some Goals for Git...
     -repos for my own scripts and automations
     -individual repos for each device, system or, whatever.
     -establish a point of reference using github pages
     
- ```markdown
-Syntax highlighted code block
+
   
   #### Some Goals in General...
     -update/upgrade home systems
