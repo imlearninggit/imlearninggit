@@ -18,7 +18,7 @@ I hope to use and learn Git as I learn Python and JavaScript as all are essentia
       
 Feel free to join me...
 
-### Markdown
+### Markdown Cheatsheet
 
 ```markdown
 Syntax highlighted code block
