@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## I'm Learning Git (& Bash, Python, Javascript...)
+I hope to use this site to plan and document my journey.
 
-I am using the [editor on GitHub](https://github.com/imlearninggit/imlearninggit/edit/gh-pages/index.md) to maintain and preview the content for this website in Markdown files.
+Feel free to join me...
 
-Jekyl builds the Markdown files into a static website that Github hosts for free.
 ### Markdown
 
 ```markdown
