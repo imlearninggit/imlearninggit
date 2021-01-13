@@ -10,6 +10,9 @@ Syntax highlighted code block
     -repos for my own scripts and automations
     -individual repos for each device, system or, whatever.
     -establish a point of reference using github pages
+    
+ ```markdown
+Syntax highlighted code block
   
   #### Some Goals in General...
     -update/upgrade home systems
