@@ -1,18 +1,15 @@
 ## Join Me!
-I hope to use this site to plan and document my journey.
 
-I hope to use and learn Git as I learn Python and JavaScript as all are essentially corequisits.
+I hope to use this space to plan and document my journey as I learn Git, Python, JavaScript & expand on my Bash skills.
 
-'''''markdown
-
- #### Some Goals for Git...
+#### Some Goals for Git...
     -repos for my own scripts and automations
     -individual repos for each device, system or, whatever.
     -establish a point of reference using github pages
     
 
   
-  #### Some Goals in General...
+#### Some Goals in General...
     -update/upgrade home systems
     -automate using python, bash, & js
       -financial
@@ -22,9 +19,12 @@ I hope to use and learn Git as I learn Python and JavaScript as all are essentia
       
 Feel free to join me...
 
+#### Some hints for using GitHub pages are included below.
+
 ### Markdown Cheatsheet
 
-```markdown
+````
+
 Syntax highlighted code block
 
 # Header 1
@@ -37,10 +37,11 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+**Bold** and _Italic_ and `Code` 
+
+````
 
 [Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
