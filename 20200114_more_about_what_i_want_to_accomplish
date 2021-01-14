@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>My First Page</title>
+		<link type="text/css" rel="stylesheet" href="styles.css"/>
+		<meta charset="utf-8"/>
+	</head>
+	<body>
+    <header>
+      
+    </header>
+		<main>	
+		
+  		<h1>I'm Learning Git!</h1>
+  		
+  		<p>
+  		  This website is where I will be <em>planning and documenting</em>
+  		  my journey as I explore the world of <strong>coding!</strong>
+  		  </p>
+  		  
+  		  <p>I am not entirely sure what it is
+  		  going to look like yet so please bear
+  		  with me as I figure it all out!</p> 
+  		  
+  		  <p>
+  		  I do plan to include at least the following: 
+  		  "classwork" or course assigments from attemptimg to learn all this new stuff,
+  		  personal projects I am working on,
+  		  and a wishlist of things I would like to accomplish.</p>
+  		  <p> 
+  		  For instance, I would like to build my own smart assistant 
+  		  (or atleast create a skill or an addon to google home/assistant)
+  		  for reminders & notifications that modifies the way they work to be
+  		  more effective for the way <em>I</em> work. Smart reminders that actually
+  		  surface when they'd be most effective, not just according to 
+  		  time or place, but be contextually and situationally aware 
+  		  enough to know to remind me to "tell Bill something" if Bill 
+  		  happens to call or text me or the next time I'm emailing him for 
+  		  whatever reason.</p>
+  		  
+  		  <p>Also, I'd like for the app to scan bluetooth and wifi to 
+  		  associate the device ids & ssids with places, times, events, and especially people.
+  		  I can see this being usefull if I can code it to "learn" that
+  		  if it sees the buetooth name and id combo 
+  		  "XeroxPrinter E1:XY:00:33:xyz" the app would know I was in or near the 
+  		  mail room at work & remind me to stop in and wish Cindy, the clerk, 
+  		  a happy birthday or remind me to pick up that package I got an email
+  		  about earlier.</p>
+  		  <p>
+  		  Or if it could learn approximately how long it takes me to go 
+  		  through, say, a container of laundry detergent and notify me 
+  		  when I am near a store that has it on sale, but only <em>if</em> 
+  		  if I am within a week or two of needing to repurchase it.</p>
+  		  
+        <p>
+        Eventually, I'd like this system to be able to read my notes, schedule, and conversations (email or text) and be able to intelligently and proactively make sugestions or provide relevant details in real time. Like, if I'm reviewing my expenses over the last month and I forget to include an expense, say an Amazon purchase made with a gift card that doesn't show on my bank statement, the system should have read my emails and know that there is a receipt from Amazon for an amount that is not reflected anywhere in my expenses document. It should also be able to recognize warrantees and insurance details from emails and save them in my drive accordingly. When I am reviewing investment or retirement accounts, it would be cool if the app was able to suggest recent news articles relevent to my portfolio (by associating the stock's ticker symbol, 'APPL' for instance, with both previously chosen & intelligently assigned keywords, 'iphone,' 'apple watch,' 'Apple,' 'iOS,' or even 'labor dispute' as applicable.
+        </p>
+        
+        <p>I'm thinking it would simply perform a web search for the tickers, company names and preassigned keywords when it sees that I am engaged with a related or relevant task & turn the results into suggestions based on my prior responses. To be smart about it, however, for the things I deal with frequently, the app should crawl the web looking for relevant information and be able to distiguish between consumer level information (reviews, specs, sales, etc), information for investors, and technical updates aimed at developers. Ideally, the app will be able to notify me of sales or price drops for products on my wish list, shopping lists, etc without including any "free iphone for taking this survery" crap as well as proactively notify me of reviews <em>but only if they contain new information</em>, product recalls, etc. If I already own the product, proactive notification of updates and bugs would be nice. If it is a service like banking or my cell phone service, the app would make me aware of policy and terms of service changes from email as well as relevent press releases from those companies or providers, potentially the app could even be aware of myy subscription details (pricing and features) & notify me when cheaper but comparable alternatives are advertised.
+        </p>
+  		
+  		
+
+	    
+		</main>
+  	<footer>
+  	  
+  	</footer>	
+	</body>
+</html>
